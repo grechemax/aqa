@@ -11,6 +11,7 @@ function test(intVariable, stringVariable) {
 }
 console.log('two integers');
 test(2, 3);
+
 console.log('two booleans');
 test(true, false);
 
